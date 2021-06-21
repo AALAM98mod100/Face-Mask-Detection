@@ -18,7 +18,7 @@ The saved model could be deployed onto a webpage and/or IoT hardware. Since it p
 Dystopian I know...
 
 References
-- [This notebook] by Nagesh Singh(https://www.kaggle.com/nageshsingh/mask-and-social-distancing-detection-using-vgg19)
+- [This notebook](https://www.kaggle.com/nageshsingh/mask-and-social-distancing-detection-using-vgg19) by Nagesh Singh 
+- [This](https://keras.io/guides/transfer_learning/) excellent guide on transfer learning
 - [Keras Docs](https://keras.io/)
 - [Haarcascades](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
-- [This](https://keras.io/guides/transfer_learning/) excellent guide on transfer learning
