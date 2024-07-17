@@ -11,7 +11,7 @@ Just create a new Kaggle notebook and click on _Add Data_ in the top right corne
 From here onwards, just run all the cells using a GPU accelerator and wait for 5-6 minutes for the model to be trained and evaluated.
 
 ### Demo Link
-[Link to Youtube Demo]()
+[Link to Youtube Demo](https://www.youtube.com/watch?v=v8n6k1wbzPY)
 
 ### Future Work
 The saved model could be deployed onto a webpage and/or IoT hardware. Since it performs face detection AND mask detection, it can perform as a "security camera" to detect COVID violations.
